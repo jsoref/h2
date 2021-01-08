@@ -1,0 +1,7 @@
+^\.github/
+^util/genhuff/src/main\.rs$
+ignore$
+^LICENSE$
+^fixtures/
+^src/hpack/huffman/mod\.rs$
+(?:^|/)Cargo\.toml$
